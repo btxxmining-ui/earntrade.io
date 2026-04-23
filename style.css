@@ -1,0 +1,21 @@
+body {
+  background:#0D1117;
+  color:white;
+  text-align:center;
+  font-family:Arial;
+}
+
+.box {
+  background:#161B22;
+  margin:20px;
+  padding:20px;
+  border-radius:10px;
+}
+
+button {
+  background:#00C853;
+  border:none;
+  padding:10px;
+  color:white;
+  margin:5px;
+}
